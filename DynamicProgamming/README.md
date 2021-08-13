@@ -1,3 +1,4 @@
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZnjdL_nGnlpNj2_qTu3Aao1plT72dnGJTA&usqp=CAU">
 ## Getting Started ✨✨
 
 👋👋 I am Tushar Jain.And welcome to my repository,where i will be uploading my codes on Dynamic programming (which is what i am currently learning🏫).Hope u enjoy my code and the comments which i have written within the codes👩‍💻.
