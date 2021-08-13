@@ -7,26 +7,26 @@
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-    -`targetsumsubet.java`
-    -`painthouse.java`
-    -`painthousemanyhouses.java`
-    -`unboundedkanpsack.java`
-    -`minimumcostpath.java`
-    -`kanpsack01.java`
-    -`goldmine.java`
-    -`countencoding.java` --> This program required a lot of time ⏳⏳ to be learned properly.
-    -`countabcsequence.java`
-    -`countbinarystring.java`
-    -`maximumsumnonadjacent.java` --> This progarm creates the basics of "Greedy".
+    - `targetsumsubet.java`
+    - `painthouse.java`
+    - `painthousemanyhouses.java`
+    - `unboundedkanpsack.java`
+    - `minimumcostpath.java`
+    - `kanpsack01.java`
+    - `goldmine.java`
+    - `countencoding.java` --> This program required a lot of time ⏳⏳ to be learned properly.
+    - `countabcsequence.java`
+    - `countbinarystring.java`
+    - `maximumsumnonadjacent.java` --> This progarm creates the basics of "Greedy".
     >Stair Problem
     -- Fun Fact : to go from n to n there is only one path d'not move.🐱‍🏍🤣🤦
-    -`climbstair.java` --> This is basic problem when we start learnig Dynamic Programming.
-    -`climbstairwithminimummoves.java`
-    -`climbstairwithvariablejumps.java`
+    - `climbstair.java` --> This is basic problem when we start learnig Dynamic Programming.
+    - `climbstairwithminimummoves.java`
+    - `climbstairwithvariablejumps.java`
     >Learning the basics of permutation and combination
     -- Hint🥷 : if you want to create a combination put the tabulation array inside the coins array.
-    -`coinchangecombination.java`
-    -`coinchangepermutation.java`
+    - `coinchangecombination.java`
+    - `coinchangepermutation.java`
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
