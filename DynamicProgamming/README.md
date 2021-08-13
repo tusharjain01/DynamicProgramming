@@ -4,6 +4,13 @@
 
 👋👋 I am Tushar Jain.And welcome to my repository,where i will be uploading my codes on Dynamic programming (which is what i am currently learning🏫).Hope u enjoy my code and the comments which i have written within the codes👩‍💻.
 
+## Methods to solve dynamic programming questions🧾💭🤔
+
+- Storage And Meaning
+- Direction
+- Travel And Solve
+
+
 ## Folder Structure 📁
 
 The workspace contains two folders by default, where:
