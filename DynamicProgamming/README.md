@@ -36,6 +36,8 @@ The workspace contains two folders by default, where:
     -- Hint🥷 : if you want to create a combination put the tabulation array inside the coins array.
     - `coinchangecombination.java`
     - `coinchangepermutation.java`
+    - `tilingwith2x1tile.java`
+    - `tilingwithmx1tile.java`
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
