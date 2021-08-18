@@ -38,6 +38,7 @@ The workspace contains two folders by default, where:
     - `coinchangepermutation.java`
     - `tilingwith2x1tile.java`
     - `tilingwithmx1tile.java`
+    - `paritionintosubset.java`
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
