@@ -39,6 +39,10 @@ The workspace contains two folders by default, where:
     - `tilingwith2x1tile.java`
     - `tilingwithmx1tile.java`
     - `paritionintosubset.java`
+    >Stock Buy sell Problem
+    - `beststockbuysellonetime.java`(one time transaction)
+    - `beststockbuysellinfiinitetime.java`(infinite time transcation)
+    - `buyandsellstockwithtransaction.java`(infinite transaction with starting balance as $0).
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
