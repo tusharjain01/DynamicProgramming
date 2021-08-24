@@ -43,6 +43,7 @@ The workspace contains two folders by default, where:
     - `beststockbuysellonetime.java`(one time transaction)
     - `beststockbuysellinfiinitetime.java`(infinite time transcation)
     - `buyandsellstockwithtransaction.java`(infinite transaction with starting balance as $0).
+    - `buyandsellstockwithcooldown.java`(after every sell we have to take cooldown).
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
