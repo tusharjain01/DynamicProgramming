@@ -45,6 +45,7 @@ The workspace contains two folders by default, where:
     - `buyandsellstockwithtransaction.java`(infinite transaction with starting balance as $0).
     - `buyandsellstockwithcooldown.java`(after every sell we have to take cooldown).
     - `buyandsellstocktwotranscationallowed.java`(we are allowed to make two transaction).
+    - `buyandsellstocksktransactionallowed.java`(we are allowed to make k transaction)
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
